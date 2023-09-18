@@ -14,3 +14,4 @@ bcaa-test-*
 *.o
 *.obj
 *.lst
+*.pdb
