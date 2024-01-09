@@ -11,6 +11,6 @@
     "sourcePaths": ["./"],
     "dflags": ["-betterC"],
     "dependencies": {
-      "bcaa": {"version": "*", "path": "../"}
+      "bcaa": {"path": "../"}
     }
 }
